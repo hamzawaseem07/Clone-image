@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+    padding-left: 450px;
+    padding-right: 450px;
+    border: 4px double #000000;
+}
+h1{
+    text-align: center;
+}
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+#aa{
+    line-height: 0%;
+}
+ul{
+    border-top: 4px solid #000000;
+    border-bottom: 4px solid #808080;
+    text-align: center;
+    padding: 18px;
+    word-spacing: 70px;
+}
+li{
+    display: inline;
+    margin: left 35px; 
+    margin: right 35px; 
+    font-size: small;
+}
+.bb{
+    color: #706b6b;
+}
+#cc{
+    color: #ff0000;
+}
